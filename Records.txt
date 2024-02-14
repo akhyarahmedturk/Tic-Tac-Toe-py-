@@ -1,0 +1,19 @@
+
+  (New Customer ) Name : srrt		Checkout Date and Time: Sat Jan 06 10:57:54 2024
+ID     |     Name     |  Price  | Quantity
+DD_101 | Milk         | 500.50  | 3  
+			Total Purchase Price = 500.500000
+------------------------------------
+
+  (New Customer ) Name : ahmed		Checkout Date and Time: Sat Jan 06 13:54:45 2024
+ID     |     Name     |  Price  | Quantity
+BV_404 | Coffee       | 100.00  | 20 
+			Total Purchase Price = 100.000000
+------------------------------------
+
+  (Old SignedUp Customer) Name : ahmed		Checkout Date and Time: Sat Jan 06 13:58:53 2024
+ID     |     Name     |  Price  | Quantity
+BV_402 | Juice        | 1779.73 | 34 
+SK_303 | Refreshments | 855.00  | 30 
+			Total Purchase Price = 2634.730000 (With 5.000000% Discount)
+------------------------------------
